@@ -1,0 +1,8 @@
+{
+  "name": "LinkForge",
+  "description": "Instantly render live images directly from HTML source code with seamless, high-performance hotlinking capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
